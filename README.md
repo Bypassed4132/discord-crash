@@ -1,10 +1,30 @@
 Crash all Discord clients (desktop, mobile, browser, third party clients,) when user clicks your profile
 This method does not work on certain Android devices
 
+
+
+
+
+
+
+
+
+
+
+
+
 NodeJS
 ∙ Navigate to Discord in the browser to find your authorization token
 ∙ Change the token in token.txt to your own
 ∙ Execute crasher.bat
+
+
+
+
+
+
+
+
 
 Deleting from your profile
 ∙ Navigate to Discord in the browser to find your authorization token
