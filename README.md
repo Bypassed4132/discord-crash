@@ -1,4 +1,6 @@
 Crash all Discord clients (desktop, mobile, browser, third party clients,) when user clicks your profile
+
+
 This method does not work on certain Android devices
 
 
