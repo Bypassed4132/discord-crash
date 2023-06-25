@@ -1,7 +1,7 @@
 Discord-Crash
 Crash all Discord clients (desktop, mobile, browser, third party clients,) when user clicks your profile
 
-Discord patched this, the repo will be updated if another solution is found
+
 
 Submitting the PUT request
 ∙ Navigate to Discord in the browser to find your authorization token (How To Find Token)
