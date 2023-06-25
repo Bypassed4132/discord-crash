@@ -36,4 +36,4 @@ Deleting from your profile
 
 
 
-![image](https://github.com/Bypassed4132/discord-crash/assets/137695833/22de7861-3ba1-46d6-8656-261701203948)
+
